@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robotero1
 - 👀 I’m interested in Mozart-Oz and ntcc
-- 🌱 I’m currently learning many things.
+- 🌱 I’m currently learning Mozart-Oz, ntcc and many other things
 - 💞️ I’m looking to collaborate on ntcc simulators
 - 📫 How to reach me: rbotero001@gmail.com
 
